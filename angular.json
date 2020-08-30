@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hbdProject"
+    }
+  },
+  "defaultProject": "hbdProject",
+  "cli": {
+    "analytics": "4d925ec8-e9b2-4a49-a0b0-4afeef9bf107"
+  }
 }
